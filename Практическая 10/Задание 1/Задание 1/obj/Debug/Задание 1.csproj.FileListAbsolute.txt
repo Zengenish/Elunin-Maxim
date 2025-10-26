@@ -1,0 +1,7 @@
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\Максим\Desktop\Практическая 10\Задание 1\Задание 1\obj\Debug\Задание 1.pdb
