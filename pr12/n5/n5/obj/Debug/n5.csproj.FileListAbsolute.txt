@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\pr12\n5\n5\bin\Debug\n5.exe.config
+C:\Users\User\Desktop\pr12\n5\n5\bin\Debug\n5.exe
+C:\Users\User\Desktop\pr12\n5\n5\bin\Debug\n5.pdb
+C:\Users\User\Desktop\pr12\n5\n5\obj\Debug\n5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pr12\n5\n5\obj\Debug\n5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pr12\n5\n5\obj\Debug\n5.exe
+C:\Users\User\Desktop\pr12\n5\n5\obj\Debug\n5.pdb
