@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\pr14\n4\n4\bin\Debug\n4.exe.config
+C:\Users\User\Desktop\pr14\n4\n4\bin\Debug\n4.exe
+C:\Users\User\Desktop\pr14\n4\n4\bin\Debug\n4.pdb
+C:\Users\User\Desktop\pr14\n4\n4\obj\Debug\n4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pr14\n4\n4\obj\Debug\n4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pr14\n4\n4\obj\Debug\n4.exe
+C:\Users\User\Desktop\pr14\n4\n4\obj\Debug\n4.pdb
