@@ -1,0 +1,7 @@
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\bin\Debug\ConsoleApp93.exe.config
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\bin\Debug\ConsoleApp93.exe
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\bin\Debug\ConsoleApp93.pdb
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\obj\Debug\ConsoleApp93.csproj.AssemblyReference.cache
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\obj\Debug\ConsoleApp93.csproj.CoreCompileInputs.cache
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\obj\Debug\ConsoleApp93.exe
+C:\Users\student.POLCOL\source\repos\ConsoleApp93\ConsoleApp93\obj\Debug\ConsoleApp93.pdb
