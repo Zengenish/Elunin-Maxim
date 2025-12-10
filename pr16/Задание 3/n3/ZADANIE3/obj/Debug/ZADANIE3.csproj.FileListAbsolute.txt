@@ -1,0 +1,7 @@
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\obj\Debug\ZADANIE3.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\obj\Debug\ZADANIE3.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\bin\Debug\ZADANIE3.exe.config
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\bin\Debug\ZADANIE3.exe
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\bin\Debug\ZADANIE3.pdb
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\obj\Debug\ZADANIE3.exe
+C:\Users\Student.POLCOL\Desktop\05.11\ZADANIE3\ZADANIE3\obj\Debug\ZADANIE3.pdb

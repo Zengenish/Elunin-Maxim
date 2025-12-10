@@ -1,0 +1,7 @@
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\bin\Debug\n2.12.11.exe.config
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\bin\Debug\n2.12.11.exe
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\bin\Debug\n2.12.11.pdb
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\obj\Debug\n2.12.11.csproj.AssemblyReference.cache
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\obj\Debug\n2.12.11.csproj.CoreCompileInputs.cache
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\obj\Debug\n2.12.11.exe
+C:\Users\Student.POLCOL\Desktop\05.11\n2.12.11\n2.12.11\obj\Debug\n2.12.11.pdb
