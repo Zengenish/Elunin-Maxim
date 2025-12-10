@@ -1,0 +1,7 @@
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\bin\Debug\Задание 4.exe.config
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\bin\Debug\Задание 4.exe
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\bin\Debug\Задание 4.pdb
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\obj\Debug\Задание 4.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\obj\Debug\Задание 4.exe
+C:\Users\Максим\Desktop\17 практическая\Задание 4\Задание 4\obj\Debug\Задание 4.pdb

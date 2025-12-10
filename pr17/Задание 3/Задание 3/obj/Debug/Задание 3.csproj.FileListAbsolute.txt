@@ -1,0 +1,8 @@
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\bin\Debug\Задание 3.exe.config
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\bin\Debug\Задание 3.exe
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\bin\Debug\Задание 3.pdb
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\obj\Debug\Задание 3.exe
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\obj\Debug\Задание 3.pdb
+C:\Users\Максим\Desktop\struct vs class\Задание 3\Задание 3\obj\Debug\Задание 3.exe.config
